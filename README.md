@@ -10,5 +10,8 @@ I've used:
 * CSS
 * GitHub
 
-Here is the link: 
-https://challenge-desktop-first-dustyblue.c9users.io/index.html
+Here are the links: 
+https://challenge-desktop-first-dustyblue.c9users.io/index.html 
+
+https://sun5lower.github.io/Challenge-Desktop-First/
+
